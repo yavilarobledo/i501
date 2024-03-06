@@ -1,0 +1,9 @@
+name: myNLP
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - ipykernel
+    - spacy
+    - scattertext
+    - pandas
